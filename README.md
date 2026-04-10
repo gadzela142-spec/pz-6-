@@ -1,5 +1,6 @@
 # PZ-6
-<img width="786" height="310" alt="Снимок экрана 2026-04-10 143535" src="https://github.com/user-attachments/assets/7566d867-6747-4ac2-9fdb-f29aa794d750" />
+<img width="885" height="326" alt="PZ6-Progress" src="https://github.com/user-attachments/assets/e0ac5502-19b8-4917-924d-6e13ce55ed4c" />
+
 
 # ТЗ:
 
